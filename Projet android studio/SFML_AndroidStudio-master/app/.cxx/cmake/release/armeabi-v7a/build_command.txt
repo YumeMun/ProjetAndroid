@@ -1,0 +1,22 @@
+Executable : C:\Users\celia\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\celia\Downloads\SFML_AndroidStudio-master\app
+-BC:\Users\celia\Downloads\SFML_AndroidStudio-master\app\.cxx\cmake\release\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\celia\Downloads\SFML_AndroidStudio-master\app\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=C:\Android\NDK\android-ndk-r20b
+-DCMAKE_CXX_FLAGS=-std=c++14 -frtti -fexceptions
+-DCMAKE_TOOLCHAIN_FILE=C:\Android\NDK\android-ndk-r20b\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\celia\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=c++_shared
+-DSFML_INCLUDE_DIR=C:\Android\NDK\android-ndk-r20b/sources/sfml/include
+-DSFML_LIBRARY_DIR=C:\Android\NDK\android-ndk-r20b/sources/sfml/lib/
+-DSFML_EXT_LIBRARY_DIR=C:\Android\NDK\android-ndk-r20b/sources/sfml/extlibs/lib/
+-DFIREBASE_INCLUDE_DIR=C:\Android\NDK\android-ndk-r20b/sources/firebase_cpp_sdk/include
+-DFIREBASE_LIBRARY_DIR=C:\Android\NDK\android-ndk-r20b/sources/firebase_cpp_sdk/libs/android/
+jvmArgs : 
+

@@ -1,0 +1,3 @@
+C:/Users/celia/Downloads/SFML_AndroidStudio-master/app/.cxx/cmake/debug/x86/CMakeFiles/gamelib.dir
+C:/Users/celia/Downloads/SFML_AndroidStudio-master/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/celia/Downloads/SFML_AndroidStudio-master/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

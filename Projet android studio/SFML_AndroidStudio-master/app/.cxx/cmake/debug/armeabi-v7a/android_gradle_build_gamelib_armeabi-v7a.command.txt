@@ -1,0 +1,8 @@
+Executable : C:\Users\celia\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\celia\Downloads\SFML_AndroidStudio-master\app\.cxx\cmake\debug\armeabi-v7a
+--target
+gamelib
+jvmArgs : 
+

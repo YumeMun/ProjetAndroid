@@ -1,0 +1,7 @@
+-- SFML include dir: C:\Android\NDK\android-ndk-r20b/sources/sfml/include
+-- SFML lib dir: C:\Android\NDK\android-ndk-r20b/sources/sfml/lib/x86/
+-- SFML extlib dir: C:\Android\NDK\android-ndk-r20b/sources/sfml/extlibs/lib/x86/
+-- ABI x86
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/celia/Downloads/SFML_AndroidStudio-master/app/.cxx/cmake/debug/x86

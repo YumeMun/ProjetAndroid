@@ -1,0 +1,7 @@
+-- SFML include dir: C:\Android\NDK\android-ndk-r20b/sources/sfml/include
+-- SFML lib dir: C:\Android\NDK\android-ndk-r20b/sources/sfml/lib/armeabi-v7a/
+-- SFML extlib dir: C:\Android\NDK\android-ndk-r20b/sources/sfml/extlibs/lib/armeabi-v7a/
+-- ABI armeabi-v7a
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/celia/Downloads/SFML_AndroidStudio-master/app/.cxx/cmake/release/armeabi-v7a
